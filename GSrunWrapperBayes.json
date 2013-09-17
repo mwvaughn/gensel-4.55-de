@@ -1,0 +1,21 @@
+{
+    "components": [
+        {
+            "name": "GSrunWrapperBayes.pl",
+            "location": "/usr/local2/GSrun4.55R/",
+            "type": "executable",
+            "description": "Command line wrapper for GenSel 4.55R enabling Bayes analyses",
+            "version": "1.0.0",
+            "attribution": "http://www.biomedcentral.com/content/supplementary/1471-2105-12-186-s1.pdf",
+            "implementation": {
+                "implementor_email": "support@iplantcollaborative.org",
+                "implementor": "vaughn",
+                "test": {
+                    "params": []
+                }
+            }
+        }
+    ],
+    "templates": [],
+    "analyses": []
+}
